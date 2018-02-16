@@ -1,0 +1,28 @@
+{
+  "name": "simon",
+  "version": "0.1.0",
+  "description": "Juego de simón dice con el teclado qwerty",
+  "main": "simon.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chepix10/Simon-Dice.git"
+  },
+  "keywords": [
+    "simon",
+    "dice",
+    "simons",
+    "says"
+  ],
+  "author": "José Luis Morales Ruiz <jlmruiz@outlook.com> (https://twitter.com/Iron_Chepe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chepix10/Simon-Dice/issues"
+  },
+  "homepage": "https://github.com/chepix10/Simon-Dice#readme",
+  "dependencies": {
+    "sweetalert": "^2.1.0"
+  }
+}
